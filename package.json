@@ -1,0 +1,11 @@
+{
+  "name": "boss",
+  "version": "1.0.0",
+  "description": "learning",
+  "main": "config.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Josh",
+  "license": "ISC"
+}
